@@ -93,8 +93,11 @@ scene.add(torus);
 // const axesHelper = new THREE.AxesHelper( 5 );
 // scene.add( axesHelper );
 
-const scene = new THREE.Scene();
-scene.fog = new THREE.Fog( 0xcccccc, 10, 15 );
+
+
+//FOG
+// scene.fog = new THREE.Fog( 0xcccccc, 10, 15 );
+// scene.fog.far;
 
 /////// KEYS
 
