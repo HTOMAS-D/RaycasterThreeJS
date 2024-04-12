@@ -94,8 +94,8 @@ scene.add(torus);
 // scene.add( axesHelper );
 
 
+//FOG -> still need to work out how this works
 
-//FOG
 // scene.fog = new THREE.Fog( 0xcccccc, 10, 15 );
 // scene.fog.far;
 
